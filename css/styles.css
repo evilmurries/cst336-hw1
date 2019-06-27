@@ -1,1 +1,50 @@
 /*  Christopher Piwarski 26 June 2019  */
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+header {
+    background-color: #5E86DD;
+    font-family: 'B612 Mono', monospace;
+    font-size: 4em;
+}
+
+main {
+    display: flex;
+}
+
+body {
+    background-color: #E7E8EB;
+    font-size: 1.5em;
+    justify-content: center;
+}
+
+nav a {
+    padding-top: 10px;
+    font-size: 1.8em;
+    padding: 20px;
+    color: black;
+}
+
+nav a:hover {
+    border-bottom: 2px black;
+  }
+
+h1 {
+    font-size: 1.8em;
+}
+
+ul {
+    color: black;
+    font-size: 1.5em;
+}
+
+#typelist {
+    margin: 0 auto;
+}
+
+.cybercrime {
+    font-style: italic;
+    font-size: 1.8em;
+}

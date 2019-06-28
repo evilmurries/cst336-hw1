@@ -5,7 +5,7 @@ header, main, nav, footer {
 }
 
 header {
-    background-color: #DCDDE5;
+    background-color: rgb(26, 51, 241);
     font-family: 'B612 Mono', monospace;
     font-size: 4em;
     justify-content: center;
@@ -13,11 +13,11 @@ header {
 
 main {
     display: flex;
-    background-color: #B3B6D8;
+    background-color: rgb(191, 191, 197);
 }
 
 body {
-    background-color: #E7E8EB;
+    background-color: whitesmoke;
     font-size: 1.5em;
     justify-content: center;
     text-align: center;

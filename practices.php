@@ -37,9 +37,11 @@
                 in keeping systems secure. The best path to success is to always keep your systems up to date and 
                 stay in accordance to all government regulations with regards to handling data. It is highly recommended
                 all incidents are logged for reference.
-                <br/>
-                These best practices are outlined by <a href="https://www.observeit.com/blog/10-best-practices-cyber-security-2017/">observeit.com.</a>
-                Please refer to their website for more information.
+            </p>
+            <br/>
+            <p id="reference">
+            These best practices are outlined by <a href="https://www.observeit.com/blog/10-best-practices-cyber-security-2017/">observeit.com.</a>
+            Please refer to their website for more information.
             </p>
         </div>
     </main>

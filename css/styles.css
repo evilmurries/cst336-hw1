@@ -45,7 +45,6 @@ h1 {
 
 section {
     font-size: 1em;
-    text-align: left;
 }
 
 ul {
@@ -60,7 +59,10 @@ li {
 }
 
 img {
-    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
 }
 
 .cybercrime {
@@ -73,7 +75,7 @@ img {
 }
 
 #companies { 
-    justify-content: center;
+    text-align: center;
 }
 
 #reference {

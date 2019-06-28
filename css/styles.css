@@ -13,6 +13,7 @@ header {
 
 main {
     display: flex;
+    background-color: #B3B6D8;
 }
 
 body {
@@ -36,6 +37,11 @@ nav a:hover {
     border-bottom: 2px black;
     transition: .9s;
   }
+
+p a {
+    text-decoration: none;
+    color: #94A7F3;
+}
 
 h1 {
     font-size: 1.8em;
@@ -76,6 +82,7 @@ img {
 
 #companies { 
     text-align: center;
+    font-weight: bold;
 }
 
 #reference {

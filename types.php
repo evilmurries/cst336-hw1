@@ -28,10 +28,10 @@
             <img src="img/security.jpg" alt="Picture of a computer monitor with text">
             <br/>
                 <ul>
-                    <li><span class="cybercrime">Phishing Attacks:</span> Social Engineering designed to steal user credentials</li><br/>
-                    <li><span class="cybercrime">Malware:</span> Programs intended to harm a computer system</li><br/>
-                    <li><span class="cybercrime">Web Attacks:</span> Using vulnerabilities in websites to steal data or cause damage</li><br/>
-                    <li><span class="cybercrime">Other:</span> Man-in-the-middle, insider threats, eavesdropping, and many more ways for criminals to attack your systems</li><br/>
+                    <li><span class="cybercrime">Phishing Attacks:</span> Social Engineering designed to steal user credentials</li>
+                    <li><span class="cybercrime">Malware:</span> Programs intended to harm a computer system</li>
+                    <li><span class="cybercrime">Web Attacks:</span> Using vulnerabilities in websites to steal data or cause damage</li>
+                    <li><span class="cybercrime">Other:</span> Man-in-the-middle, insider threats, eavesdropping, and many more ways for criminals to attack your systems</li>
                 </ul>
             <p>
                 Information for this page was sourced from <a href="https://phoenixnap.com/blog/cyber-security-attack-types">Phoenix NAP, LLC.</a> 

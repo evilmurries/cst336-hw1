@@ -21,7 +21,7 @@
                 <a href="types.php">Types of Cybercrime</a><br/><br/>
                 <a href="practices.php">Best Practices</a><br/><br/>
         </nav>
-        <summary>
+        <section>
             <h1>
                 <strong>What is Cybersecurity and Cybercrime?</strong>
             </h1>
@@ -45,7 +45,7 @@
                 Cybersecurity involves protecting that information by preventing, detecting, and responding to cyber attacks.
             </blockquote>
             <br/>
-        </summary>
+        </section>
     </main>
     <footer>
         <hr>

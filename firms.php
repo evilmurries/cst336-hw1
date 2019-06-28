@@ -30,7 +30,7 @@
             <p>
                 There are numerous firms that specialize in the prevention and remedy of cybercrime.
                 Cybersecurity is a rapidly growing industry with numerous avenues for specialization.
-                According to <a href="https://cybersecurityventures.com/cybersecurity-market-report/">cybersecurityventures.com</a>, 
+                According to <a class="paralink" href="https://cybersecurityventures.com/cybersecurity-market-report/">cybersecurityventures.com</a>, 
                 cybersecurity will be a trillion dollar industry by the year 2021. Every business is in need
                 of some level of protection, and there are numerous firms out there willing to provide services.
                 Here are just a few:

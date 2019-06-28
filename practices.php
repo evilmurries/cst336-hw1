@@ -40,7 +40,7 @@
             </p>
             <br/>
             <p id="reference">
-            These best practices are outlined by <a href="https://www.observeit.com/blog/10-best-practices-cyber-security-2017/">observeit.com.</a>
+            These best practices are outlined by <a class="paralink" href="https://www.observeit.com/blog/10-best-practices-cyber-security-2017/">observeit.com.</a>
             Please refer to their website for more information.
             </p>
         </div>

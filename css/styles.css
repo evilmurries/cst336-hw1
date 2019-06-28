@@ -38,7 +38,7 @@ nav a:hover {
     transition: .9s;
   }
 
-p a {
+.paralink {
     text-decoration: none;
     color: #94A7F3;
 }

@@ -54,6 +54,10 @@ ul {
     text-align: left;
 }
 
+li {
+    line-height: 20px;
+}
+
 .cybercrime {
     font-style: italic;
     font-size: 1em;

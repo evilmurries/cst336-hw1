@@ -102,10 +102,6 @@ blockquote {
     margin: 0 auto;
 }
 
-figure {
-    border: thin silver solid;
-}
-
 figcaption {
     font-size: .8em;
     font-style: italic;

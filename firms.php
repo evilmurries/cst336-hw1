@@ -35,7 +35,7 @@
                 of some level of protection, and there are numerous firms out there willing to provide services.
                 Here are just a few:
             </p>
-            <ul>
+            <ul id="companies">
                 <li><span class="companies">Cisco Systems</span></li>
                 <li><span class="companies">CyberArk</span></li>
                 <li><span class="companies">Amazon Web Services</span></li>

@@ -59,9 +59,21 @@ li {
     line-height: 50px;
 }
 
+img {
+    justify-content: center;
+}
+
 .cybercrime {
     font-style: italic;
     font-size: 1em;
+}
+
+#crimes{
+    text-align: left;
+}
+
+#companies { 
+    justify-content: center;
 }
 
 #reference {

@@ -27,7 +27,7 @@
             </h1>
             <img src="img/security.jpg" alt="Picture of a computer monitor with text">
             <br/>
-                <ul>
+                <ul id="crimes">
                     <li><span class="cybercrime">Phishing Attacks:</span> Social Engineering designed to steal user credentials</li>
                     <li><span class="cybercrime">Malware:</span> Programs intended to harm a computer system</li>
                     <li><span class="cybercrime">Web Attacks:</span> Using vulnerabilities in websites to steal data or cause damage</li>

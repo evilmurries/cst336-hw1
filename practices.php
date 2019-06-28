@@ -25,7 +25,10 @@
             <h1>
                 <strong>Best Practices</strong>
             </h1>
-            <img src="img/keyboard_cat.jpg" alt="Person working at computer">
+            <figure>
+                <img src="img/keyboard_cat.jpg" alt="Person working at computer">
+                <figcaption>We all play a part in cybersecurity</figcaption>
+            </figure>
             <p>
                 There is no one size fits all approach to proper cybersecurity. Every measure
                 should be considered to protect the data of your customers and your company. According to 

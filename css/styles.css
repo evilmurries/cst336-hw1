@@ -5,7 +5,7 @@ header, main, nav, footer {
 }
 
 header {
-    background-color: #5E86DD;
+    background-color: #DCDDE5;
     font-family: 'B612 Mono', monospace;
     font-size: 4em;
     justify-content: center;
@@ -47,6 +47,7 @@ h1 {
     font-size: 1.8em;
     text-align: center;
     justify-content: center;
+    text-decoration: underline;
 }
 
 section {
@@ -100,4 +101,9 @@ blockquote {
     font-style: italic;
     font-size: .8em;
     margin: 0 auto;
+}
+
+figcaption {
+    font-size: .8em;
+    font-style: italic;
 }

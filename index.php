@@ -16,9 +16,9 @@
     <main>
         <nav>
                 <br/>
-                <a href="index.php">Home</a><br/><br/>
+                <a class="currentPage" href="index.php">Home</a><br/><br/>
                 <a href="firms.php">Companies</a><br/><br/>
-                <a href="types.php">Types of Cybercrime</a><br/><br/>
+                <a href="types.php">Types</a><br/><br/>
                 <a href="practices.php">Best Practices</a><br/><br/>
         </nav>
         <section>
@@ -53,7 +53,6 @@
         CST336 Internet Programming. 2019&copy; Piwarski <br />
         <strong>Disclaimer:</strong> The information in this webpage is used
         for academic purposes only.
-        <br/>
     </footer>
 </body>
 </html>

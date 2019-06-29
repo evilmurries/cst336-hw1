@@ -18,16 +18,16 @@
                 <br/>
                 <a href="index.php">Home</a><br/><br/>
                 <a href="firms.php">Companies</a><br/><br/>
-                <a href="types.php">Types of Cybercrime</a><br/><br/>
+                <a class="currentPage" href="types.php">Types</a><br/><br/>
                 <a href="practices.php">Best Practices</a><br/><br/>
         </nav>
-        <div id="typelist">
+        <div>
             <h1>
                 <strong>Types of Cybersecurity Threats</strong>
             </h1>
             <img src="img/security.jpg" alt="Picture of a computer monitor with text">
             <br/>
-                <ul id="crimes">
+                <ul id="crimeList">
                     <li><span class="cybercrime">Phishing Attacks:</span> Social Engineering designed to steal user credentials</li>
                     <li><span class="cybercrime">Malware:</span> Programs intended to harm a computer system</li>
                     <li><span class="cybercrime">Web Attacks:</span> Using vulnerabilities in websites to steal data or cause damage</li>
@@ -45,7 +45,6 @@
         CST336 Internet Programming. 2019&copy; Piwarski <br />
         <strong>Disclaimer:</strong> The information in this webpage is used
         for academic purposes only.
-        <br/>
     </footer>
 </body>
 </html>

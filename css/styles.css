@@ -32,9 +32,12 @@ nav a {
     text-decoration: none;
 }
 
+.currentPage {
+    border-bottom: 2px solid black;
+}
+
 nav a:hover {
-    border-bottom: 2px black;
-    transition: .9s;
+    border-bottom: 2px dotted black;
   }
 
 .paralink {
@@ -57,7 +60,6 @@ ul {
     color: black;
     font-size: 1em;
     display: block;
-    text-align: left;
 }
 
 li {
@@ -76,13 +78,14 @@ img {
     font-size: 1em;
 }
 
-#crimes{
-    text-align: left;
+#crimeList{
+    justify-content: left;
 }
 
 #companies { 
     text-align: center;
-    font-weight: bold;
+    font-weight: italic;
+    font-size: 1.2em;
 }
 
 #reference {
